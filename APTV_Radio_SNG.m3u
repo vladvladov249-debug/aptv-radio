@@ -1,0 +1,89 @@
+#EXTM3U
+#PLAYLIST:APTV Radio СНГ
+
+#EXTINF:-1,Qazaq Radiosy
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+
+#EXTINF:-1,Shalqar
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+
+#EXTINF:-1,Aspan FM
+http://77.240.38.228:8000/aspanfm
+
+#EXTINF:-1,Zhulduz Radio
+http://91.201.214.229:8000/zhulduz
+
+#EXTINF:-1,Auto Radio Kazakhstan
+http://178.88.167.62:8080/AVTORADIO_192
+
+#EXTINF:-1,ВАШЕ РАДИО
+https://live.zhanafm.kz:8443/vasheradio
+
+#EXTINF:-1,Радио Рекорд
+https://radiorecord.hostingradio.ru/rr_main96.aacp
+
+#EXTINF:-1,Радио Рекорд — Russian Mix
+https://radiorecord.hostingradio.ru/rus96.aacp
+
+#EXTINF:-1,Радио Рекорд — 90-е
+https://radiorecord.hostingradio.ru/sd9096.aacp
+
+#EXTINF:-1,Радио Рекорд — Rock
+https://radiorecord.hostingradio.ru/rock96.aacp
+
+#EXTINF:-1,Радио Рекорд — 80-е
+https://radiorecord.hostingradio.ru/198096.aacp
+
+#EXTINF:-1,Радио Рекорд — 00-е
+https://radiorecord.hostingradio.ru/200096.aacp
+
+#EXTINF:-1,Радио Рекорд — Deep
+https://radiorecord.hostingradio.ru/deep96.aacp
+
+#EXTINF:-1,Радио Рекорд — Chill-Out
+https://radiorecord.hostingradio.ru/chil96.aacp
+
+#EXTINF:-1,DFM
+https://dfm.hostingradio.ru/dfm96.aacp
+
+#EXTINF:-1,DFM — Дискач 90-х
+https://dfm-disc90.hostingradio.ru/disc9096.aacp
+
+#EXTINF:-1,Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+
+#EXTINF:-1,Comedy Radio
+https://srv02.gpmradio.ru:8443/stream/air/aac/64/202
+
+#EXTINF:-1,Радио Ваня
+https://icecast-radiovanya.cdnvideo.ru/radiovanya
+
+#EXTINF:-1,Европа Плюс
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
+
+#EXTINF:-1,Наше Радио
+http://nashe.streamr.ru/nashe-128.mp3
+
+#EXTINF:-1,Дорожное Радио
+http://dorognoe.hostingradio.ru:8000/radio
+
+#EXTINF:-1,Ретро FM
+http://retroserver.streamr.ru:8043/retro256.mp3
+
+#EXTINF:-1,Радио КП
+http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+
+#EXTINF:-1,Русское Радио Беларусь
+https://stream.rusradio.by:8443/live128
+
+#EXTINF:-1,Новое Радио Беларусь
+https://live.novoeradio.by:444/live/novoeradio/icecast.audio
+
+#EXTINF:-1,Радиус FM Беларусь
+https://stream2.datacenter.by/radiusfm_main
+
+#EXTINF:-1,Душевное Радио Беларусь
+https://stream2.datacenter.by/dushevnoe
+
+#EXTINF:-1,Юмор FM Беларусь
+http://live.humorfm.by:8000/veseloeradio
